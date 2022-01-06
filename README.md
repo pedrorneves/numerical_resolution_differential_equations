@@ -5,8 +5,8 @@ Leonor Jesus,
 Mariana Vinhas and
 Pedro Neves (BSc Computational Mathematics course project)
 
-For this project, it was developed in MATLAB a program which solves specific ordinary differential equations using the Forward Euler’s Method and Range-Kutta’s third-order method.
+It was developed in MATLAB a program which solves specific ordinary differential equations using the Forward Euler’s Method and Range-Kutta’s third-order method.
 
 The program is initiated by running 'menu_inicial'.
 
-Program written in Portuguese
+Program written in Portuguese.
